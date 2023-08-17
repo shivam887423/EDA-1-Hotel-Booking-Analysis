@@ -103,19 +103,28 @@ Created new column total_people by adding adults+children+babies.
 
 **Box Plot**
 
+## Graphs 
+
+ Which Year has the maximum numbers of bookings?
+
 ![image](https://github.com/shivam887423/EDA-1-Hotel-Booking-Analysis/assets/119883273/4caa3cdf-bf0f-477b-9250-f428860d34af)
+
+
+Months with the most numbers of bookings?
 
 
 ![image](https://github.com/shivam887423/EDA-1-Hotel-Booking-Analysis/assets/119883273/31b8834b-9d25-4a0b-b40f-81eb78a938aa)
 
+Which Country Has the maximum numbers of bookings?
+
 
 ![image](https://github.com/shivam887423/EDA-1-Hotel-Booking-Analysis/assets/119883273/3d0b6097-21ef-46ba-93f5-68492c4ae23c)
+
+Trends of market segments in week nights in city or hotel resort?
 
 
 ![image](https://github.com/shivam887423/EDA-1-Hotel-Booking-Analysis/assets/119883273/98eea88a-6e69-4db8-ab85-38b8b8d09a4a)
 
-
-![image](https://github.com/shivam887423/EDA-1-Hotel-Booking-Analysis/assets/119883273/08dc78f4-e8f2-41b6-b5ff-9b262d0d21cb)
 
 
 # Conclusion
