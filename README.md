@@ -1,4 +1,5 @@
 # Hotel-Bookings-Exploratory-Data-Analysis   
+  ![image](https://github.com/shivam887423/EDA-1-Hotel-Booking-Analysis/assets/119883273/7593f875-e022-4bf2-b78d-c196221eb007)
 
 ## Objective
 We are provided with a hotel bookings dataset.
